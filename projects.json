@@ -1,14 +1,20 @@
 [
     {
-        "nome": "Il mio primo sito",
-        "descrizione": "Un sito vetrina per un'attività locale realizzato con HTML e CSS.",
-        "immagine": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "link": "https://link-al-tuo-sito.com"
+        "nome": "App Scienze",
+        "descrizione": "Versione sito dell’app creata per il progetto di scienze.",
+        "immagine": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "link": "https://wizzo0901.github.io/app-scienze/"
     },
     {
-        "nome": "E-commerce App",
-        "descrizione": "Applicazione per lo shopping online con carrello e checkout simulato.",
-        "immagine": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "link": "https://link-al-tuo-secondo-sito.com"
+        "nome": "Jujutsu Smash",
+        "descrizione": "Videogioco a tema Jujutsu Kaisen.",
+        "immagine": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "link": "https://wizzo0901.github.io/jujutsu-smash/"
+    },
+    {
+        "nome": "Arte: Dadaismo e Surrealismo",
+        "descrizione": "Sito creato per rappresentare le correnti artistiche del Dadaismo e del Surrealismo.",
+        "immagine": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "link": "https://wizzo0901.github.io/arte/"
     }
 ]
