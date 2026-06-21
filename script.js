@@ -3,8 +3,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('searchInput');
     let projectsData = [];
 
-    // Carica i dati dal file JSON
-    fetch('projects.json')
+    // Carica i dati dal file JSON aggiungendo un parametro unico (?v=...) per forzare l'aggiornamento
+    fetch('projects.json?v=' + new Date().getTime())
         .then(response => response.json())
         .then(data => {
             projectsData = data;
